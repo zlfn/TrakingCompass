@@ -24,7 +24,7 @@
 플러그인 적용법
 ----
 
-Realease의 TrakingCompass.jar을 Plugins 파일에 넣으면 됩니다.<br>
+오른쪽에 떠있는 Releases의 TrakingCompass.jar을 다운받아 서버 구동기의 plugins 파일에 넣으면 됩니다.<br>
 TrakingCompassEnabled! 라는 문구가 서버 여는 중 뜬다면 적용 성공입니다.
 
 즐거운 마인크래프트가 되길!
